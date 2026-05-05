@@ -1,7 +1,7 @@
 "VertexLitGeneric"
 {
 	
-	"$basetexture" "nature/env_dynamicwater/base_water_03"
+	"$basetexture" "nature/gdr_env_dynamicwater/base_water_03"
 	
 	"$translucent" 1
 	"$nocull" 1
@@ -9,7 +9,7 @@
 	"$envmaptint" "[1 1 1]"
 
 
-	$detail "nature/env_dynamicwater/base_water_02"
+	$detail "nature/gdr_env_dynamicwater/base_water_02"
 	$detailscale 12
 	$detailblendfactor 1
 	$detailblendmode 1

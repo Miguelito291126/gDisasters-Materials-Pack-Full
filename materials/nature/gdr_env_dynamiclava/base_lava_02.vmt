@@ -1,6 +1,6 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "nature/env_dynamiclava/base_lava_02"
+	"$basetexture" "nature/gdr_env_dynamiclava/base_lava_02"
 	"$surfaceprop" "wood"
 	"$translucent" 1
 	"$nocull" 1
@@ -8,7 +8,7 @@
 	"$envmaptint" "[0.12 0.12 0.12]"
 	"$envmap" "env_cubemap"
 	"$selfillum" 1
-	"$selfillummask" "nature/env_dynamiclava/base_lava_02"
+	"$selfillummask" "nature/gdr_env_dynamiclava/base_lava_02"
 	
 	"Proxies"
 	{

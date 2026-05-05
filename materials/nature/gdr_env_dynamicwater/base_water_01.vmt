@@ -2,8 +2,8 @@
 "UnlitTwoTexture"
 {
 	
-	"$basetexture" "nature/env_dynamicwater/base_water_01"
-	"$texture2" "nature/env_dynamicwater/base_water_02"
+	"$basetexture" "nature/gdr_env_dynamicwater/base_water_01"
+	"$texture2" "nature/gdr_env_dynamicwater/base_water_02"
 
 	"$translucent" 1
 	"$nocull" 1
