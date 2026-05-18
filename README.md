@@ -1,12 +1,3 @@
-The full material pack of gdisasters
-Can be used for gDisasters Base Pack too, But I recommend gDisasters Revived, which has fewer bugs.
-
-Fixed gDisasters Base Pack Textures
-
-github: https://github.com/Miguelito223/gDisasters-Materials-Pack-Full
-
-Legal Notice
-
 # PRESERVATION PROJECT - ORIGINALLY LOST MOD
 Original creators: Bcat, Harry Dalton, and Tempested (Copyright © 2018).
 
